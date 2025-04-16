@@ -90,9 +90,9 @@ const UserService = require("./userService");
 ### NestJS
 
 - Nest의 IoC 컨테이너가 의존성 트리를 자동으로 생성해줌
-  // user.service.ts
 
 ```ts
+// user.service.ts
 @Injectable()
 export class UserService {
   constructor(private readonly reviewRepository: ReviewRepository) {}
