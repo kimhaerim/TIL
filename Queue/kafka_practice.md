@@ -53,3 +53,6 @@
 ### key설정없이 프로듀서에서 메시지 발행시 라운드로빈으로 메시지가 할당됨
 
 <img src="../images/kafka_practice5.png">
+
+### TODO 
+- key 지정해서 컨슈머에 할당 테스트
