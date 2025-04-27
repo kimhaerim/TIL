@@ -1,6 +1,6 @@
 # TIL
 
-##Architecture
+## Architecture
 - [모놀리식 VS 마이크로서비스](https://github.com/kimhaerim/TIL/blob/main/Architecture/Monolithic_vs_MSA.md)
 
 ## Database
