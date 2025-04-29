@@ -1,0 +1,18 @@
+# TODO, 앞으로 정리하면 좋을 내용들
+- Database
+  - SQL
+    - 인덱스가 타지 않는 경우
+    - 실행계획 분석 및 최적화
+  - NoSQL
+    - Redis
+    - Redis sorted set을 활용한 랭킹 기능
+- API
+  - RESTful API 설계
+  - GraphQL API 설계
+- Architecture
+  - MSA 구조에서의 트랜잭션 처리
+- NestJS
+  - decorator
+  -
+- Queue
+  -  RabbitMQ
